@@ -1,0 +1,7 @@
+C:\Users\PARKER(L)\Documents\Practicas PE 2019\GUIA 9\GUIA 9\bin\Debug\GUIA 9.exe.config
+C:\Users\PARKER(L)\Documents\Practicas PE 2019\GUIA 9\GUIA 9\bin\Debug\GUIA 9.exe
+C:\Users\PARKER(L)\Documents\Practicas PE 2019\GUIA 9\GUIA 9\bin\Debug\GUIA 9.pdb
+C:\Users\PARKER(L)\Documents\Practicas PE 2019\GUIA 9\GUIA 9\obj\Debug\GUIA 9.csprojAssemblyReference.cache
+C:\Users\PARKER(L)\Documents\Practicas PE 2019\GUIA 9\GUIA 9\obj\Debug\GUIA 9.csproj.CoreCompileInputs.cache
+C:\Users\PARKER(L)\Documents\Practicas PE 2019\GUIA 9\GUIA 9\obj\Debug\GUIA 9.exe
+C:\Users\PARKER(L)\Documents\Practicas PE 2019\GUIA 9\GUIA 9\obj\Debug\GUIA 9.pdb
